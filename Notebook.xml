@@ -1,0 +1,24 @@
+<Notebook>
+    <topic name="Animal Things">
+        <note name="Dogs are better than cats 03">
+            <text> Dogs respond when you call their name (unlike cats, who just ignore you) </text>
+            <timestamp> 03/16/21 - 14:03:04 </timestamp>
+        </note>
+    <note name="Dogs"><text>I like dogs</text><timestamp>03/10/24 - 22:00:02</timestamp></note>
+        <note name="Dog_info">
+            <text>https://en.wikipedia.org/wiki/Dog</text>
+            <timestamp>03/10/24 - 22:02:33</timestamp>
+        </note>
+    </topic>
+
+    <topic name="Natures">
+        <note name="The Secret Life of Trees">
+            <text> Trees communicate through the 'Wood Wide Web', a network of roots and fungal connections. </text>
+            <timestamp> 03/16/21 - 14:03:04 </timestamp>
+        </note>
+        <note name="Birds' Migration Marvels">
+            <text> Some bird species migrate thousands of miles each year, navigating with astonishing precision </text>
+            <timestamp> 03/16/21 - 14:03:04 </timestamp>
+        </note>
+    </topic>
+<topic name="DMM"><note name="exam"><text>Draft</text><timestamp>03/10/24 - 21:58:56</timestamp></note></topic></Notebook>
